@@ -23,7 +23,7 @@ a mobile application without any additional burden.
 
 How We built it
 
-Our Team built Labify AR using :
+Built Labify AR using :
 
 Unity
 Google ARCore
