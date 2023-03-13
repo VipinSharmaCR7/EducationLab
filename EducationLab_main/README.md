@@ -38,6 +38,3 @@
 ###### 1. To make it more cloud dependent.
 ###### 2. Scaling up our application so that millions of students across the world can be benefitted.
 
-##   Our Team
-##### 1. Saurabh chaudhary
-##### 2. Deepak Chaturvedi
